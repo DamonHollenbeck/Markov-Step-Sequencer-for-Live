@@ -4,7 +4,7 @@ The GUI of the patch allows user to change the tempo and the quantization parame
 
 ## Instructions (Step 1-4 are only necessary for primary installation)
 1. First download and unzip the folder (inside of which are two Max Patches)
-2. One patch is labeled Untitled Device, and the other Metronomo_2 (Metronomo_2 originally created by Rodolfo Cangiotti https://cycling74.com/author/568d412cd78f77af5a3d0f80)
+2. One patch is labeled Untitled Device, and the other Metronomo_2 (Adapted from Rodolfo Cangiotti https://cycling74.com/author/568d412cd78f77af5a3d0f80)
 3. Find and open the file within the Ableton User Library, and copy both Patches into the folder (...\User Library\Presets\MIDI Effects\Max MIDI Effect)
 4. Now, opening Ableton Live, navigate to Max for Live, and then open the Max Midi Effect folder, and drag Untitled Device.amxd into that folder
 5. Open an instrument midi track, and then drag Untitled Device onto any instrument you wish to play
