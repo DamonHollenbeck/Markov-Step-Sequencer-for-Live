@@ -1,4 +1,4 @@
-# Markov-Step-Sequencer-for-Live
+# Markov-Step-Sequencer-for-Live (Senior Independent Study Comp Sci Project)
 This application is a sequencer made in Max, that uses Markov chains in order to “improvise” new sequences based off of what the user originally inputted. Users play notes in Ableton Live. These notes are then quantized and fed into the Markov model.
 The GUI of the patch allows user to change the tempo and the quantization parameters for the model. This improvising sequencer is intended for live use as an accompaniment or as a creative recording tool.
 
