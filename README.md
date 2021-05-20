@@ -9,5 +9,5 @@ The GUI of the patch allows user to change the tempo and the quantization parame
 4. Now, opening Ableton Live, navigate to Max for Live, and then open the Max Midi Effect folder, and drag Untitled Device.amxd into that folder
 5. Open an instrument midi track, and then drag Untitled Device onto any instrument you wish to play
 6. In the bottom window in Ableton, where the device's GUI is now displayed, match your tempo with that of Ableton, pick your quantization, and you are now ready to play (See image below)
-https://github.com/DamonHollenbeck/Markov-Step-Sequencer-for-Live/blob/main/Images/GUI.png
+![alt text](https://github.com/DamonHollenbeck/Markov-Step-Sequencer-for-Live/blob/main/Images/GUI.png)
 7. If you wish to stop the sequencer and reset the model, simply click the button next to the tempo and quantization adjuster
