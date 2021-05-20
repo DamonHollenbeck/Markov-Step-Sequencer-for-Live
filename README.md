@@ -2,6 +2,8 @@
 This application is a sequencer made in Max, that uses Markov chains in order to “improvise” new sequences based off of what the user originally inputted. Users play notes in Ableton Live. These notes are then quantized and fed into the Markov model.
 The GUI of the patch allows user to change the tempo and the quantization parameters for the model. This improvising sequencer is intended for live use as an accompaniment or as a creative recording tool.
 
+(A milestone video of the sequencer from the first semester as well as a demo video for the final beta Max Patch are available in the Journal and Demo Folder)
+
 ## Instructions (Step 1-4 are only necessary for primary installation)
 1. First download and open the folder (inside of which are two Max Patches)
 2. One patch is labeled Untitled Device, and the other Metronomo_2 (Adapted from Rodolfo Cangiotti https://cycling74.com/author/568d412cd78f77af5a3d0f80)
